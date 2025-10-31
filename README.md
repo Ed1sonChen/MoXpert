@@ -36,10 +36,6 @@ python /Memory/build_memory.py
 Python /Experiemnts/Qwen2-VL.py
 ```
 
-## 👨‍💻 Todo
-- [x] Release the evaluation code
-- [x] Release the paper
-
 
 ## Acknowledgements ##
 We would like to acknowledge the use of code snippets from various open-source libraries and contributions from the online coding community, which have been invaluable in the development of this project. Specifically, we would like to thank the authors and maintainers of the following resources:
