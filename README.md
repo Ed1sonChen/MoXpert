@@ -7,7 +7,7 @@ This is the official implementation of paper "A Multi-Expert Framework for Enhan
 We propose an multi-experts framework named MoXpert, which comprises four expert modules working together to guide open source MLLMs to improve industrial anomaly detection.
 
 <p align="center" width="80%">
-<a ><img src="Figures\model.png" alt="overview" style="width: 100%; min-width: 300px; display: block; margin: auto;"></a>
+<a ><img src="Figures\introduction.png" alt="overview" style="width: 100%; min-width: 300px; display: block; margin: auto;"></a>
 </p>
 
 
