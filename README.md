@@ -16,8 +16,8 @@ We propose an multi-experts framework named MoXpert, which comprises four expert
 
 ```bash
 # Create environment
-conda create -n echo python=3.12 -y
-conda activate echo
+conda create -n MoXpert python=3.12 -y
+conda activate MoXpert
 
 # Install dependencies
 pip install -r requirements.txt
